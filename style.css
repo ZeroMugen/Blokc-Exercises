@@ -1,0 +1,45 @@
+body{
+    background-color:#e269df;
+}
+
+#container{
+    margin-left: 40%;
+    margin-top: 14%;
+    background: linear-gradient(#063734,#a4dee5);
+    width: 250px;
+    height: 390px;
+    border: solid 6px; 
+    border-color: #69e28f;
+    border-radius: 12px;
+
+}
+
+#screen{
+    border-width: 5px;
+    margin-left: 18px;
+    width: 85%;
+    height: 40px;
+    margin-top: 13px;
+    
+}
+.but{
+    width:240px;
+    height: 334px;
+    margin-left:1px;
+}
+button{
+    width: 30px;
+    height:35px;
+    margin-top: 10px;
+    background: solid(white);
+    margin-left: 10px;
+    border: solid red;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight:100;
+    font-family:'Times New Roman', Times, serif;
+
+
+
+
+}
